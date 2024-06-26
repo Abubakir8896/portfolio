@@ -167,7 +167,7 @@ const Portfolio = () => {
       </ul>
 
       <a
-        href="https://github.com/developerabrorbek"
+        href="https://github.com/Abubakir8896"
         className="inline-block hover:text-[#dc6b24] transition-colors text-white mt-8 text-xl"
       >
         Show others on my Github{" "}
