@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import MyImage from "../assets/myImage.jpg";
+import MyImage from "../assets/MyImage.jpg";
 const Home = () => {
   return (
     <section className="home-page min-h-screen bg-[#0F0F0F] flex flex-col lg:flex-row items-center lg:pl-20">
@@ -24,7 +24,7 @@ const Home = () => {
           More about me
         </Link>{" "}
       </div>
-      <div className="home-image w-[300px] mb-8 lg:mb-0 lg:w-[400px] rounded-full overflow-hidden">
+      <div className="home-image w-[450px] h-[450px]  mb-8 lg:mb-0 lg:w-[400px] rounded-full overflow-hidden">pxpx
         <img
           src={MyImage}
           alt="My image"
