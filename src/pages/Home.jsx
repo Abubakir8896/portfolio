@@ -28,7 +28,7 @@ const Home = () => {
         <img
           src={MyImage}
           alt="My image"
-          className="relative -top-5 scale-110"
+          className="relative -top-5 scale-110 relative-full"
         />
       </div>
     </section>
