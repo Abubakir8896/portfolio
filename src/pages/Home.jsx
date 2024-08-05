@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import MyImage from "../assets/myImage.jpg";
+import myImage from "../assets/myImage.jpg";
 const Home = () => {
   return (
     <section className="home-page min-h-screen bg-[#0F0F0F] flex flex-col lg:flex-row items-center lg:pl-20">
